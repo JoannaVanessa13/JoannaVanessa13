@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 soy Joanna Vanessa, actualmente stoy estudiando el curso de fundamentos en programacion web,me gusta la musica, dibujar,el origami y tocar insterumentos musicales.
 
 <!--
 **JoannaVanessa13/JoannaVanessa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
